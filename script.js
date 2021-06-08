@@ -1,5 +1,5 @@
 document.getElementById('button').addEventListener('click', check)
-
+let number
 
 function check () {
   number = parseInt(document.getElementById('val1').value)
